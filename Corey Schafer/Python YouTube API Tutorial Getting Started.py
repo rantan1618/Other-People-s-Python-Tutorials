@@ -1,4 +1,4 @@
- api = AIzaSyDidrMBnoB_XenQdSmHU9_-hQZmLY7TJ0Y
+ api = 
  # Use Envriomental Variables for production API keys and other secret password details.
 
  
