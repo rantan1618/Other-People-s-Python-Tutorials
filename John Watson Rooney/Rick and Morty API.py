@@ -19,13 +19,14 @@ def parse_json(response):
     charlist = []
     for item in response['results']:
         char = {
+            'id': item['id'],
             'name': item['name'],
             'no_ep': len(item['episode']),
         }
         charlist.append(char)
     return charlist
-mainlist = []
 
+mainlist = []
 data =  main_request(baseurl, endpoint, 1)
 for x in range(1,get_pages(data)+1):
     print(x)
