@@ -30,4 +30,6 @@ A collection of different examples from various Python tutorials including Socra
 - [Socratica](https://www.youtube.com/c/Socratica)
 - [Tech With Tim](https://www.youtube.com/c/TechWithTim)
 - [Telusko](https://www.youtube.com/c/Telusko)
-- []()
+- [LeMaster Tech](https://www.youtube.com/channel/UCV5Ab39YnXvTZ6Grar9URxQ)
+- [Access 2 Learn](https://www.youtube.com/c/Access2learn/featured)
+- [](Bro%20Code/Python%20snake%20game%20🐍.py)
