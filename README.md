@@ -19,6 +19,8 @@ A collection of different examples from various Python tutorials including Socra
 - [John Watson Rooney](https://www.youtube.com/c/JohnWatsonRooney)
 - [Khanrad](https://www.youtube.com/c/Khanradcoder)
 - [Kite](https://www.youtube.com/c/KiteHQ)
+- [LeMaster Tech]()
+- [mCoding - James Murphy](https://www.youtube.com/c/mCodingWithJamesMurphy)
 - [Mike Driscoll](https://github.com/driscollis/)
 - [Mouse Vs Python](https://www.youtube.com/c/MouseVsPython)
 - [NeuralNine](https://www.youtube.com/c/NeuralNine)
